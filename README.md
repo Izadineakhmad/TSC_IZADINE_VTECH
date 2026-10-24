@@ -17,7 +17,7 @@ To get a local copy up and running, follow these simple steps.
 Open your terminal and run the following command to clone the project to your local machine:
 
 ```bash
-[https://github.com/Izadineakhmad/TSC_IZADINE_VTECH.git]
+git clone https://github.com/Izadineakhmad/TSC_IZADINE_VTECH.git
 ```
 *(Note: Replace the URL above with the actual URL of your GitHub repository)*
 
