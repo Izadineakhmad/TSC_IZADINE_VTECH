@@ -17,7 +17,7 @@ To get a local copy up and running, follow these simple steps.
 Open your terminal and run the following command to clone the project to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+[https://github.com/Izadineakhmad/TSC_IZADINE_VTECH.git]
 ```
 *(Note: Replace the URL above with the actual URL of your GitHub repository)*
 
@@ -26,7 +26,7 @@ git clone https://github.com/your-username/your-repo-name.git
 Move into the project folder you just cloned:
 
 ```bash
-cd your-repo-name
+cd TSC_IZADINE_VTECH
 ```
 
 ### 3. Install dependencies
