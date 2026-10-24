@@ -1,4 +1,4 @@
-# Project Name
+# Website Fashion Consultant Bloom
 
 This is a [React](https://reactjs.org/) project bootstrapped with [Vite](https://vitejs.dev/).
 
